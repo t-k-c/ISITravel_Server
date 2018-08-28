@@ -1,0 +1,866 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="67f080b1-5ed4-4111-b53d-755990e73d08" name="Default" comment="" />
+    <ignored path="ISItravel.iws" />
+    <ignored path=".idea/workspace.xml" />
+    <ignored path=".idea/dataSources.local.xml" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ChangesViewManager" flattened_view="true" show_ignored="false" />
+  <component name="CreatePatchCommitExecutor">
+    <option name="PATCH_PATH" value="" />
+  </component>
+  <component name="DatabaseView">
+    <option name="GROUP_SCHEMA" value="true" />
+    <option name="GROUP_CONTENTS" value="false" />
+    <option name="SORT_POSITIONED" value="false" />
+    <option name="SHOW_TABLE_DETAILS" value="true" />
+    <option name="SHOW_EMPTY_GROUPS" value="false" />
+    <PATH>
+      <PATH_ELEMENT>
+        <option name="myItemId" />
+        <option name="myItemType" value="com.intellij.database.view.DatabaseStructure$Root" />
+      </PATH_ELEMENT>
+    </PATH>
+  </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
+  <component name="FavoritesManager">
+    <favorites_list name="ISItravel" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file leaf-file-name="index.php" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/trip_details/index.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.27331188">
+              <caret line="10" column="0" selection-start-line="10" selection-start-column="0" selection-end-line="10" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Locality_details.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/isitravel.classes/Locality_details.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.0">
+              <caret line="35" column="16" selection-start-line="35" selection-start-column="16" selection-end-line="35" selection-end-column="16" />
+              <folding>
+                <element signature="e#7#95#0#PHP" expanded="true" />
+                <marker date="1507730038780" expanded="true" signature="466:512" placeholder="SELECT * FRO..locality..." />
+                <marker date="1507730038780" expanded="true" signature="724:777" placeholder="SELECT * FRO..locality..." />
+                <marker date="1507730038780" expanded="true" signature="979:1028" placeholder="SELECT * FRO..contains..." />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="trip_localities.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/locality_details/trip_localities.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.0">
+              <caret line="11" column="47" selection-start-line="11" selection-start-column="47" selection-end-line="11" selection-end-column="47" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="update.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/trip_details/update.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.0">
+              <caret line="15" column="31" selection-start-line="15" selection-start-column="31" selection-end-line="15" selection-end-column="31" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="config.isitravel.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/isitravel.config/config.isitravel.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.0">
+              <caret line="11" column="0" selection-start-line="11" selection-start-column="0" selection-end-line="11" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="isitravel_config.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/isitravel.config/isitravel_config.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.0">
+              <caret line="8" column="22" selection-start-line="8" selection-start-column="22" selection-end-line="8" selection-end-column="22" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="index.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/locality_details/index.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.0">
+              <caret line="16" column="5" selection-start-line="16" selection-start-column="5" selection-end-line="16" selection-end-column="5" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="index.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/driver_details/index.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.0">
+              <caret line="26" column="35" selection-start-line="26" selection-start-column="35" selection-end-line="26" selection-end-column="35" />
+              <folding>
+                <element signature="e#6#99#0#PHP" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Trip_details.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/isitravel.classes/Trip_details.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="-11.5">
+              <caret line="57" column="41" selection-start-line="57" selection-start-column="41" selection-end-line="57" selection-end-column="41" />
+              <folding>
+                <marker date="1507985304443" expanded="true" signature="476:521" placeholder="SELECT * FRO..trip..." />
+                <marker date="1507985304443" expanded="true" signature="1070:1114" placeholder="SELECT * FRO..trip..." />
+                <marker date="1507985304443" expanded="true" signature="1350:1392" placeholder="SELECT * FRO..info..." />
+                <marker date="1507985304443" expanded="true" signature="1674:1779" placeholder="UPDATE info ..." />
+                <marker date="1507985304443" expanded="true" signature="1674:1790" placeholder="UPDATE info ..." />
+                <marker date="1507985304443" expanded="true" signature="1944:2039" placeholder="INSERT INTO info..." />
+                <marker date="1507985304443" expanded="true" signature="1944:2045" placeholder="INSERT INTO info..." />
+                <marker date="1507985304443" expanded="true" signature="1944:2047" placeholder="INSERT INTO info..." />
+                <marker date="1507985304443" expanded="true" signature="2232:2274" placeholder="SELECT * FRO..info..." />
+                <marker date="1507985304443" expanded="true" signature="2449:2487" placeholder="DELETE FROM ..." />
+                <marker date="1507985304443" expanded="true" signature="2465:2487" placeholder="UPDATE info ..." />
+                <marker date="1507985304443" expanded="true" signature="2590:2640" placeholder="UPDATE trip ..." />
+                <marker date="1507985304443" expanded="true" signature="2815:2896" placeholder="UPDATE trip ..." />
+                <marker date="1507985304443" expanded="true" signature="3096:3137" placeholder="SELECT * FRO..trip..." />
+                <marker date="1507985304443" expanded="true" signature="3096:3163" placeholder="SELECT * FRO..trip..." />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="index.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/login/index.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.0">
+              <caret line="24" column="64" selection-start-line="24" selection-start-column="64" selection-end-line="24" selection-end-column="64" />
+              <folding>
+                <marker date="1505576205138" expanded="true" signature="600:642" placeholder="SELECT * FRO..driver..." />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="HTML File" />
+      </list>
+    </option>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/index.html" />
+        <option value="$PROJECT_DIR$/test.php" />
+        <option value="$PROJECT_DIR$/login.php" />
+        <option value="$PROJECT_DIR$/index.php" />
+        <option value="$PROJECT_DIR$/config.isitravel.php" />
+        <option value="$PROJECT_DIR$/login/index.php" />
+        <option value="$PROJECT_DIR$/isitravel.classes/Driver_details.php" />
+        <option value="$PROJECT_DIR$/isitravel.classes/Agency_details.php" />
+        <option value="$PROJECT_DIR$/isitravel.classes/Client_details.php" />
+        <option value="$PROJECT_DIR$/isitravel.classes/Locality_detail.php" />
+        <option value="$PROJECT_DIR$/locality_details/index.php" />
+        <option value="$PROJECT_DIR$/trip_details/abort.php" />
+        <option value="$PROJECT_DIR$/trip_details/index.php" />
+        <option value="$PROJECT_DIR$/trip_details/start.php" />
+        <option value="$PROJECT_DIR$/trip_details/update.php" />
+        <option value="$PROJECT_DIR$/driver_details/index.php" />
+        <option value="$PROJECT_DIR$/locality_details/trip_localities.php" />
+        <option value="$PROJECT_DIR$/isitravel.classes/Locality_details.php" />
+        <option value="$PROJECT_DIR$/isitravel.config/config.isitravel.php" />
+        <option value="$PROJECT_DIR$/isitravel.config/isitravel_config.php" />
+        <option value="$PROJECT_DIR$/isitravel.classes/Trip_details.php" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" />
+  <component name="JsBuildToolPackageJson" detection-done="true" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+  </component>
+  <component name="PhpServers">
+    <servers />
+  </component>
+  <component name="PhpWorkspaceProjectConfiguration" backward_compatibility_performed="true" />
+  <component name="ProjectFrameBounds">
+    <option name="x" value="-8" />
+    <option name="y" value="22" />
+    <option name="width" value="1284" />
+    <option name="height" value="786" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="false">
+    <OptionsSetting value="true" id="Add" />
+    <OptionsSetting value="true" id="Remove" />
+    <OptionsSetting value="true" id="Checkout" />
+    <OptionsSetting value="true" id="Update" />
+    <OptionsSetting value="true" id="Status" />
+    <OptionsSetting value="true" id="Edit" />
+    <ConfirmationsSetting value="0" id="Add" />
+    <ConfirmationsSetting value="0" id="Remove" />
+  </component>
+  <component name="ProjectView">
+    <navigator currentView="ProjectPane" proportions="" version="1">
+      <flattenPackages />
+      <showMembers />
+      <showModules />
+      <showLibraryContents />
+      <hideEmptyPackages />
+      <abbreviatePackageNames />
+      <autoscrollToSource />
+      <autoscrollFromSource />
+      <sortByType />
+      <manualOrder />
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scratches" />
+      <pane id="ProjectPane">
+        <subPane>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="ISItravel" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="ISItravel" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="ISItravel" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+        </subPane>
+      </pane>
+      <pane id="Scope" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../LiveChat" />
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
+    <property name="js-jscs-nodeInterpreter" value="C:\Program Files\nodejs\node.exe" />
+    <property name="settings.editor.selected.configurable" value="web-ide.project.structure" />
+    <property name="settings.editor.splitter.proportion" value="0.2" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\xampp\htdocs\ISItravel\isitravel.config" />
+    </key>
+  </component>
+  <component name="RunManager" selected="JavaScript Debug.Agency_details.php">
+    <configuration default="false" name="Agency_details.php" type="JavascriptDebugType" factoryName="JavaScript Debug" temporary="true" nameIsGenerated="true" uri="http://isitravel.info/isitravel.classes/Agency_details.php">
+      <method />
+    </configuration>
+    <configuration default="true" type="JavascriptDebugType" factoryName="JavaScript Debug">
+      <method />
+    </configuration>
+    <configuration default="true" type="PHPUnitRunConfigurationType" factoryName="PHPUnit">
+      <TestRunner />
+      <method />
+    </configuration>
+    <configuration default="true" type="PhpBehatConfigurationType" factoryName="Behat">
+      <BehatRunner />
+      <method />
+    </configuration>
+    <configuration default="true" type="PhpLocalRunConfigurationType" factoryName="PHP Console">
+      <method />
+    </configuration>
+    <configuration default="true" type="js.build_tools.gulp" factoryName="Gulp.js">
+      <node-options />
+      <gulpfile />
+      <tasks />
+      <arguments />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="js.build_tools.npm" factoryName="npm">
+      <command value="run-script" />
+      <scripts />
+      <envs />
+      <method />
+    </configuration>
+    <list size="1">
+      <item index="0" class="java.lang.String" itemvalue="JavaScript Debug.Agency_details.php" />
+    </list>
+    <recent_temporary>
+      <list size="1">
+        <item index="0" class="java.lang.String" itemvalue="JavaScript Debug.Agency_details.php" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ShelveChangesManager" show_recycled="false" />
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="67f080b1-5ed4-4111-b53d-755990e73d08" name="Default" comment="" />
+      <created>1505063339242</created>
+      <option name="number" value="Default" />
+      <updated>1505063339242</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-8" y="22" width="1284" height="786" extended-state="0" />
+    <editor active="true" />
+    <layout>
+      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.17981073" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="File Transfer" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.32988167" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Database Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32988167" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+    </layout>
+  </component>
+  <component name="Vcs.Log.UiProperties">
+    <option name="RECENTLY_FILTERED_USER_GROUPS">
+      <collection />
+    </option>
+    <option name="RECENTLY_FILTERED_BRANCH_GROUPS">
+      <collection />
+    </option>
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <option name="time" value="177" />
+    </breakpoint-manager>
+    <watches-manager />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/isitravel.classes/Driver_details.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="5" column="19" selection-start-line="5" selection-start-column="19" selection-end-line="5" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/isitravel.classes/Agency_details.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="13" column="22" selection-start-line="13" selection-start-column="12" selection-end-line="13" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/driver_details/index.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <element signature="e#6#99#0#PHP" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/isitravel.classes/Trip_details.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="20" column="51" selection-start-line="20" selection-start-column="20" selection-end-line="20" selection-end-column="51" />
+          <folding>
+            <marker date="1507985304443" expanded="true" signature="476:521" placeholder="SELECT * FRO..trip..." />
+            <marker date="1507985304443" expanded="true" signature="1070:1114" placeholder="SELECT * FRO..trip..." />
+            <marker date="1507985304443" expanded="true" signature="1350:1392" placeholder="SELECT * FRO..info..." />
+            <marker date="1507985304443" expanded="true" signature="1674:1779" placeholder="UPDATE info ..." />
+            <marker date="1507985304443" expanded="true" signature="1674:1790" placeholder="UPDATE info ..." />
+            <marker date="1507985304443" expanded="true" signature="1944:2039" placeholder="INSERT INTO info..." />
+            <marker date="1507985304443" expanded="true" signature="1944:2045" placeholder="INSERT INTO info..." />
+            <marker date="1507985304443" expanded="true" signature="1944:2047" placeholder="INSERT INTO info..." />
+            <marker date="1507985304443" expanded="true" signature="2232:2274" placeholder="SELECT * FRO..info..." />
+            <marker date="1507985304443" expanded="true" signature="2449:2487" placeholder="DELETE FROM ..." />
+            <marker date="1507985304443" expanded="true" signature="2465:2487" placeholder="UPDATE info ..." />
+            <marker date="1507985304443" expanded="true" signature="2590:2640" placeholder="UPDATE trip ..." />
+            <marker date="1507985304443" expanded="true" signature="2815:2896" placeholder="UPDATE trip ..." />
+            <marker date="1507985304443" expanded="true" signature="3096:3137" placeholder="SELECT * FRO..trip..." />
+            <marker date="1507985304443" expanded="true" signature="3096:3163" placeholder="SELECT * FRO..trip..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/isitravel.config/isitravel_config.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="19" column="23" selection-start-line="19" selection-start-column="23" selection-end-line="19" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/isitravel.classes/Client_details.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="5" column="19" selection-start-line="5" selection-start-column="19" selection-end-line="5" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/login/index.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="24" column="64" selection-start-line="24" selection-start-column="64" selection-end-line="24" selection-end-column="64" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/isitravel.config/config.isitravel.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="7" column="3" selection-start-line="7" selection-start-column="3" selection-end-line="7" selection-end-column="3" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/isitravel.classes/Driver_details.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="5" column="19" selection-start-line="5" selection-start-column="19" selection-end-line="5" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/isitravel.classes/Agency_details.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="13" column="22" selection-start-line="13" selection-start-column="12" selection-end-line="13" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/driver_details/index.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <element signature="e#6#99#0#PHP" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/isitravel.classes/Client_details.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="17" column="51" selection-start-line="17" selection-start-column="51" selection-end-line="17" selection-end-column="51" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/isitravel.classes/Trip_details.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="20" column="51" selection-start-line="20" selection-start-column="20" selection-end-line="20" selection-end-column="51" />
+          <folding>
+            <marker date="1507985304443" expanded="true" signature="476:521" placeholder="SELECT * FRO..trip..." />
+            <marker date="1507985304443" expanded="true" signature="1070:1114" placeholder="SELECT * FRO..trip..." />
+            <marker date="1507985304443" expanded="true" signature="1350:1392" placeholder="SELECT * FRO..info..." />
+            <marker date="1507985304443" expanded="true" signature="1674:1779" placeholder="UPDATE info ..." />
+            <marker date="1507985304443" expanded="true" signature="1674:1790" placeholder="UPDATE info ..." />
+            <marker date="1507985304443" expanded="true" signature="1944:2039" placeholder="INSERT INTO info..." />
+            <marker date="1507985304443" expanded="true" signature="1944:2045" placeholder="INSERT INTO info..." />
+            <marker date="1507985304443" expanded="true" signature="1944:2047" placeholder="INSERT INTO info..." />
+            <marker date="1507985304443" expanded="true" signature="2232:2274" placeholder="SELECT * FRO..info..." />
+            <marker date="1507985304443" expanded="true" signature="2449:2487" placeholder="DELETE FROM ..." />
+            <marker date="1507985304443" expanded="true" signature="2465:2487" placeholder="UPDATE info ..." />
+            <marker date="1507985304443" expanded="true" signature="2590:2640" placeholder="UPDATE trip ..." />
+            <marker date="1507985304443" expanded="true" signature="2815:2896" placeholder="UPDATE trip ..." />
+            <marker date="1507985304443" expanded="true" signature="3096:3137" placeholder="SELECT * FRO..trip..." />
+            <marker date="1507985304443" expanded="true" signature="3096:3163" placeholder="SELECT * FRO..trip..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/isitravel.config/isitravel_config.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="19" column="23" selection-start-line="19" selection-start-column="23" selection-end-line="19" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/login/index.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="6" column="3" selection-start-line="6" selection-start-column="3" selection-end-line="6" selection-end-column="3" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/isitravel.config/config.isitravel.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="7" column="3" selection-start-line="7" selection-start-column="3" selection-end-line="7" selection-end-column="3" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/isitravel.classes/Driver_details.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="11" column="3" selection-start-line="11" selection-start-column="3" selection-end-line="11" selection-end-column="3" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/isitravel.classes/Agency_details.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="12" column="23" selection-start-line="12" selection-start-column="23" selection-end-line="12" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/driver_details/index.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <element signature="e#6#99#0#PHP" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/isitravel.classes/Trip_details.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="7" column="3" selection-start-line="7" selection-start-column="3" selection-end-line="7" selection-end-column="3" />
+          <folding>
+            <marker date="1507985304443" expanded="true" signature="476:521" placeholder="SELECT * FRO..trip..." />
+            <marker date="1507985304443" expanded="true" signature="1070:1114" placeholder="SELECT * FRO..trip..." />
+            <marker date="1507985304443" expanded="true" signature="1350:1392" placeholder="SELECT * FRO..info..." />
+            <marker date="1507985304443" expanded="true" signature="1674:1779" placeholder="UPDATE info ..." />
+            <marker date="1507985304443" expanded="true" signature="1674:1790" placeholder="UPDATE info ..." />
+            <marker date="1507985304443" expanded="true" signature="1944:2039" placeholder="INSERT INTO info..." />
+            <marker date="1507985304443" expanded="true" signature="1944:2045" placeholder="INSERT INTO info..." />
+            <marker date="1507985304443" expanded="true" signature="1944:2047" placeholder="INSERT INTO info..." />
+            <marker date="1507985304443" expanded="true" signature="2232:2274" placeholder="SELECT * FRO..info..." />
+            <marker date="1507985304443" expanded="true" signature="2449:2487" placeholder="DELETE FROM ..." />
+            <marker date="1507985304443" expanded="true" signature="2465:2487" placeholder="UPDATE info ..." />
+            <marker date="1507985304443" expanded="true" signature="2590:2640" placeholder="UPDATE trip ..." />
+            <marker date="1507985304443" expanded="true" signature="2815:2896" placeholder="UPDATE trip ..." />
+            <marker date="1507985304443" expanded="true" signature="3096:3137" placeholder="SELECT * FRO..trip..." />
+            <marker date="1507985304443" expanded="true" signature="3096:3163" placeholder="SELECT * FRO..trip..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/isitravel.config/isitravel_config.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="18" column="5" selection-start-line="18" selection-start-column="5" selection-end-line="18" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/login/index.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="6" column="3" selection-start-line="6" selection-start-column="3" selection-end-line="6" selection-end-column="3" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/isitravel.config/config.isitravel.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="7" column="3" selection-start-line="7" selection-start-column="3" selection-end-line="7" selection-end-column="3" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/isitravel.classes/Driver_details.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="10" column="0" selection-start-line="10" selection-start-column="0" selection-end-line="10" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/isitravel.classes/Agency_details.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="10" column="20" selection-start-line="10" selection-start-column="20" selection-end-line="10" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/driver_details/index.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <element signature="e#6#99#0#PHP" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/isitravel.classes/Trip_details.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="7" column="3" selection-start-line="7" selection-start-column="3" selection-end-line="7" selection-end-column="3" />
+          <folding>
+            <marker date="1507985304443" expanded="true" signature="476:521" placeholder="SELECT * FRO..trip..." />
+            <marker date="1507985304443" expanded="true" signature="1070:1114" placeholder="SELECT * FRO..trip..." />
+            <marker date="1507985304443" expanded="true" signature="1350:1392" placeholder="SELECT * FRO..info..." />
+            <marker date="1507985304443" expanded="true" signature="1674:1779" placeholder="UPDATE info ..." />
+            <marker date="1507985304443" expanded="true" signature="1674:1790" placeholder="UPDATE info ..." />
+            <marker date="1507985304443" expanded="true" signature="1944:2039" placeholder="INSERT INTO info..." />
+            <marker date="1507985304443" expanded="true" signature="1944:2045" placeholder="INSERT INTO info..." />
+            <marker date="1507985304443" expanded="true" signature="1944:2047" placeholder="INSERT INTO info..." />
+            <marker date="1507985304443" expanded="true" signature="2232:2274" placeholder="SELECT * FRO..info..." />
+            <marker date="1507985304443" expanded="true" signature="2449:2487" placeholder="DELETE FROM ..." />
+            <marker date="1507985304443" expanded="true" signature="2465:2487" placeholder="UPDATE info ..." />
+            <marker date="1507985304443" expanded="true" signature="2590:2640" placeholder="UPDATE trip ..." />
+            <marker date="1507985304443" expanded="true" signature="2815:2896" placeholder="UPDATE trip ..." />
+            <marker date="1507985304443" expanded="true" signature="3096:3137" placeholder="SELECT * FRO..trip..." />
+            <marker date="1507985304443" expanded="true" signature="3096:3163" placeholder="SELECT * FRO..trip..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/isitravel.config/isitravel_config.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="18" column="5" selection-start-line="18" selection-start-column="5" selection-end-line="18" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/login/index.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="6" column="3" selection-start-line="6" selection-start-column="3" selection-end-line="6" selection-end-column="3" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/isitravel.config/config.isitravel.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="7" column="3" selection-start-line="7" selection-start-column="3" selection-end-line="7" selection-end-column="3" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/isitravel.classes/Driver_details.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="2" column="0" selection-start-line="2" selection-start-column="0" selection-end-line="7" selection-end-column="3" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/isitravel.classes/Agency_details.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="10" column="20" selection-start-line="10" selection-start-column="20" selection-end-line="10" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/driver_details/index.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <element signature="e#6#99#0#PHP" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/isitravel.classes/Trip_details.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="7" column="3" selection-start-line="7" selection-start-column="3" selection-end-line="7" selection-end-column="3" />
+          <folding>
+            <marker date="1507985304443" expanded="true" signature="476:521" placeholder="SELECT * FRO..trip..." />
+            <marker date="1507985304443" expanded="true" signature="1070:1114" placeholder="SELECT * FRO..trip..." />
+            <marker date="1507985304443" expanded="true" signature="1350:1392" placeholder="SELECT * FRO..info..." />
+            <marker date="1507985304443" expanded="true" signature="1674:1779" placeholder="UPDATE info ..." />
+            <marker date="1507985304443" expanded="true" signature="1674:1790" placeholder="UPDATE info ..." />
+            <marker date="1507985304443" expanded="true" signature="1944:2039" placeholder="INSERT INTO info..." />
+            <marker date="1507985304443" expanded="true" signature="1944:2045" placeholder="INSERT INTO info..." />
+            <marker date="1507985304443" expanded="true" signature="1944:2047" placeholder="INSERT INTO info..." />
+            <marker date="1507985304443" expanded="true" signature="2232:2274" placeholder="SELECT * FRO..info..." />
+            <marker date="1507985304443" expanded="true" signature="2449:2487" placeholder="DELETE FROM ..." />
+            <marker date="1507985304443" expanded="true" signature="2465:2487" placeholder="UPDATE info ..." />
+            <marker date="1507985304443" expanded="true" signature="2590:2640" placeholder="UPDATE trip ..." />
+            <marker date="1507985304443" expanded="true" signature="2815:2896" placeholder="UPDATE trip ..." />
+            <marker date="1507985304443" expanded="true" signature="3096:3137" placeholder="SELECT * FRO..trip..." />
+            <marker date="1507985304443" expanded="true" signature="3096:3163" placeholder="SELECT * FRO..trip..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/isitravel.config/isitravel_config.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="18" column="5" selection-start-line="18" selection-start-column="5" selection-end-line="18" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$APPLICATION_CONFIG_DIR$/consoles/db/0c2c922b-99af-4e65-bad5-a606edd18e7c/console.sql">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/isitravel.classes/Agency_details.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-8.5">
+          <caret line="13" column="22" selection-start-line="13" selection-start-column="12" selection-end-line="13" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/isitravel.classes/Client_details.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-7.8461537">
+          <caret line="12" column="23" selection-start-line="12" selection-start-column="23" selection-end-line="12" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/isitravel.classes/Driver_details.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="5" column="19" selection-start-line="5" selection-start-column="19" selection-end-line="5" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/trip_details/abort.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="12" column="1" selection-start-line="12" selection-start-column="1" selection-end-line="12" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/trip_details/start.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="7" column="22" selection-start-line="7" selection-start-column="22" selection-end-line="7" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/locality_details/index.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="16" column="5" selection-start-line="16" selection-start-column="5" selection-end-line="16" selection-end-column="5" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/driver_details/index.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="26" column="35" selection-start-line="26" selection-start-column="35" selection-end-line="26" selection-end-column="35" />
+          <folding>
+            <element signature="e#6#99#0#PHP" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/locality_details/trip_localities.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="11" column="47" selection-start-line="11" selection-start-column="47" selection-end-line="11" selection-end-column="47" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/isitravel.config/isitravel_config.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="8" column="22" selection-start-line="8" selection-start-column="22" selection-end-line="8" selection-end-column="22" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/isitravel.config/config.isitravel.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="11" column="0" selection-start-line="11" selection-start-column="0" selection-end-line="11" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/isitravel.classes/Locality_details.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="35" column="16" selection-start-line="35" selection-start-column="16" selection-end-line="35" selection-end-column="16" />
+          <folding>
+            <element signature="e#7#95#0#PHP" expanded="true" />
+            <marker date="1507730038780" expanded="true" signature="466:512" placeholder="SELECT * FRO..locality..." />
+            <marker date="1507730038780" expanded="true" signature="724:777" placeholder="SELECT * FRO..locality..." />
+            <marker date="1507730038780" expanded="true" signature="979:1028" placeholder="SELECT * FRO..contains..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/trip_details/update.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="15" column="31" selection-start-line="15" selection-start-column="31" selection-end-line="15" selection-end-column="31" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/isitravel.classes/Trip_details.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-11.5">
+          <caret line="57" column="41" selection-start-line="57" selection-start-column="41" selection-end-line="57" selection-end-column="41" />
+          <folding>
+            <marker date="1507985304443" expanded="true" signature="476:521" placeholder="SELECT * FRO..trip..." />
+            <marker date="1507985304443" expanded="true" signature="1070:1114" placeholder="SELECT * FRO..trip..." />
+            <marker date="1507985304443" expanded="true" signature="1350:1392" placeholder="SELECT * FRO..info..." />
+            <marker date="1507985304443" expanded="true" signature="1674:1779" placeholder="UPDATE info ..." />
+            <marker date="1507985304443" expanded="true" signature="1674:1790" placeholder="UPDATE info ..." />
+            <marker date="1507985304443" expanded="true" signature="1944:2039" placeholder="INSERT INTO info..." />
+            <marker date="1507985304443" expanded="true" signature="1944:2045" placeholder="INSERT INTO info..." />
+            <marker date="1507985304443" expanded="true" signature="1944:2047" placeholder="INSERT INTO info..." />
+            <marker date="1507985304443" expanded="true" signature="2232:2274" placeholder="SELECT * FRO..info..." />
+            <marker date="1507985304443" expanded="true" signature="2449:2487" placeholder="DELETE FROM ..." />
+            <marker date="1507985304443" expanded="true" signature="2465:2487" placeholder="UPDATE info ..." />
+            <marker date="1507985304443" expanded="true" signature="2590:2640" placeholder="UPDATE trip ..." />
+            <marker date="1507985304443" expanded="true" signature="2815:2896" placeholder="UPDATE trip ..." />
+            <marker date="1507985304443" expanded="true" signature="3096:3137" placeholder="SELECT * FRO..trip..." />
+            <marker date="1507985304443" expanded="true" signature="3096:3163" placeholder="SELECT * FRO..trip..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/login/index.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="24" column="64" selection-start-line="24" selection-start-column="64" selection-end-line="24" selection-end-column="64" />
+          <folding>
+            <marker date="1505576205138" expanded="true" signature="600:642" placeholder="SELECT * FRO..driver..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/trip_details/index.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.27331188">
+          <caret line="10" column="0" selection-start-line="10" selection-start-column="0" selection-end-line="10" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>

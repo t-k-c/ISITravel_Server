@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="a61c4a9a-44f3-4d69-bafb-a397cbaedd4a" name="biz.diginov.isitravel" url="http://diginov.biz">
+        <fileTransfer host="diginov.biz" port="21" password="dfe3dff9dfe3dfdedfd8dfcbdfdcdfcfdfc6dfeadf9bdf98df99df9e" username="isitravel@diginov.biz">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" passiveMode="true" />
+          </advancedOptions>
+        </fileTransfer>
+      </webServer>
+    </option>
+  </component>
+</project>
